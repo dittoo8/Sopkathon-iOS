@@ -54,6 +54,9 @@
 		84BEBA17227EC10A0078609F /* sopkathon-iOS */ = {
 			isa = PBXGroup;
 			children = (
+				84BEBA31227ECBCA0078609F /* Jaeeun */,
+				84BEBA30227ECBC10078609F /* Sohyun */,
+				84BEBA2F227ECBBB0078609F /* Choyi */,
 				84BEBA18227EC10A0078609F /* AppDelegate.swift */,
 				84BEBA1A227EC10A0078609F /* ViewController.swift */,
 				84BEBA1C227EC10A0078609F /* Main.storyboard */,
@@ -62,6 +65,27 @@
 				84BEBA24227EC10D0078609F /* Info.plist */,
 			);
 			path = "sopkathon-iOS";
+			sourceTree = "<group>";
+		};
+		84BEBA2F227ECBBB0078609F /* Choyi */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Choyi;
+			sourceTree = "<group>";
+		};
+		84BEBA30227ECBC10078609F /* Sohyun */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Sohyun;
+			sourceTree = "<group>";
+		};
+		84BEBA31227ECBCA0078609F /* Jaeeun */ = {
+			isa = PBXGroup;
+			children = (
+			);
+			path = Jaeeun;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
